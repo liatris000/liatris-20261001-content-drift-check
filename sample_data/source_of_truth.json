@@ -1,0 +1,26 @@
+{
+  "plans": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "monthly_price_jpy": 1980,
+      "seats": 3,
+      "features": [
+        "基本レポート機能",
+        "メールサポート"
+      ]
+    },
+    {
+      "id": "pro",
+      "name": "Pro",
+      "monthly_price_jpy": 5980,
+      "seats": 10,
+      "features": [
+        "基本レポート機能",
+        "高度な分析機能",
+        "優先メールサポート",
+        "API アクセス"
+      ]
+    }
+  ]
+}
