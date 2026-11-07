@@ -74,6 +74,10 @@ CLI は、サンプルデータに対して下の 2 件を「ずれ」として�
 - `sample_data/` — デモ用の source of truth (`source_of_truth.json`) と、あえてずらしを入れた公開ページ (`published_page.html`)
 - `tests/test_pipeline.py` — Claude API 呼び出しをモックした end-to-end テスト
 
+## 記事
+
+https://zenn.dev/liatris/articles/20261001-content-drift-check
+
 ## ライセンス
 
 MIT
